@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Кручу-верчу как хочу:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/____jar</output-path>
+    <root id="archive" name="Кручу-верчу как хочу.jar">
+      <element id="module-output" name="Кручу-верчу как хочу" />
+    </root>
+  </artifact>
+</component>
